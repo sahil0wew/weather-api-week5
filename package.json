@@ -7,8 +7,6 @@
   },
   "keywords": [],
   "author": "Sahil Parikh",
-
-  
   "license": "MIT",
   "description": "The Weather API",
   "dependencies": {
